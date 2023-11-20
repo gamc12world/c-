@@ -13,3 +13,4 @@ string adjective=Console.ReadLine();
 Console.WriteLine(adjective);
 Console.WriteLine("final mad libs sentence generated");
 Console.WriteLine($"{exclaimation} ! he/she {adverb} as he/she jumped into his/her {noun} and drove off with his/her {adjective} wife/husband");
+// this programm is about madlibs it is not an auto generate like programm it is manual.
