@@ -1,12 +1,4 @@
-﻿Console.WriteLine("Programm to find strike rate");
-Console.WriteLine("Enter the number of balls");
-int balls=Convert.ToInt16(Console.ReadLine());
-Console.WriteLine("enter the runs");
-int runs=Convert.ToInt32(Console.ReadLine());
-decimal strikerate=(decimal)runs/balls*100;
-Console.WriteLine("Strike rate is "+strikerate);
-Console.WriteLine("your strike rate programs ends here");
-Console.WriteLine("Program to generate the mad libs");
+﻿Console.WriteLine("Program to generate the mad libs");
 Console.WriteLine("Enter Exclaimation expression");
 string exclaimation=Console.ReadLine();
 Console.WriteLine(exclaimation);
